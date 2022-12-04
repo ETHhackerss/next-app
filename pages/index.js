@@ -26,7 +26,7 @@ function index() {
   
   return (
     <>
-      <div className=" h-screen bg-[conic-gradient(at_bottom_left,_var(--tw-gradient-stops))] from-fuchsia-300 via-green-400 to-rose-700">
+      <div className=" h-screen ">
         <Navbar connected={setConnected} />
         <div className="flex justify-center align-middle">
        
